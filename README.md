@@ -1,3 +1,7 @@
+# OSP Assignment 2 Open Source Project: FFmpeg
+
+Group Fri 15:30 syvnussuibsm
+
 FFmpeg README
 =============
 
